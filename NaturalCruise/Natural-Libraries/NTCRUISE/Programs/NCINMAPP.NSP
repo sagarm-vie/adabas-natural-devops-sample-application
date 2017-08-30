@@ -9,7 +9,7 @@
 /**         <li>INPUT USING MAP Statement</li>
 /**     </ul>
 /** :author Training
-/** Eine wichtige Änderung
+/** Eine wichtige Änderung für RM-Ticket1
 DEFINE DATA LOCAL
   USING NCDEMAPL
 LOCAL
