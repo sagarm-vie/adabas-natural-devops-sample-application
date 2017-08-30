@@ -9,6 +9,7 @@
 /**         <li>INPUT USING MAP Statement</li>
 /**     </ul>
 /** :author Training
+/** Eine wichtige Änderung
 DEFINE DATA LOCAL
   USING NCDEMAPL
 LOCAL
